@@ -1,0 +1,8 @@
+{
+  "name": "swig",
+  "version": "0.13.5",
+  "main": "./swig.js",
+  "dependencies": {
+    "underscore": "*"
+  }
+}
