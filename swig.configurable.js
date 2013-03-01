@@ -14,7 +14,7 @@
   var previousSwigEnvironment = this.swigEnvironment;
 
   var swigEnvironment = function(options) {
-    var _ = options.underscore;
+    var _ = options.underscore || root._;
     var swig;
     var module;
     (function () {
