@@ -1,0 +1,51 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+components
+
+#virtstrap
+quickactivate
+.vs.env
+
+#Ropeproject
+.ropeproject
+
+# Tox
+.tox
+
+# Other Python Specific
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+bin
+build
+develop-eggs
+downloads
+eggs
+parts
+dist
+
+# Compile files
+*.so
+*.o
+*.exe
+*.com
+*.class
+*.dll
+*.pyc
+
+# jsduck docs
+docs
